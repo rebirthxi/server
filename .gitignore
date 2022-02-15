@@ -222,4 +222,4 @@ memcheck.out.*
 /src/common/version.cpp
 
 # Auto-copied DLLs
-lua51.dll
+/lua51.dll
