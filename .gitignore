@@ -220,3 +220,6 @@ memcheck.out.*
 
 # Auto-generated files
 /src/common/version.cpp
+
+# Auto-copied DLLs
+lua51.dll
