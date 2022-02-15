@@ -21,7 +21,7 @@ endif()
 
 find_library(LuaJIT_LIBRARY 
     NAMES 
-        lua51
+        luajit libluajit luajit-5.1 libluajit-5.1 lua51
     PATHS
         ${PROJECT_SOURCE_DIR}/ext/${LUAJIT_PARTIAL_PATH}/lib/
         /usr/
