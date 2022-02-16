@@ -220,3 +220,6 @@ memcheck.out.*
 
 # Auto-generated files
 /src/common/version.cpp
+
+/libzmq-v143-mt-4_3_4.dll
+/libzmq-v143-mt-gd-4_3_4.dll
